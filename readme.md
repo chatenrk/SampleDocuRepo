@@ -12,3 +12,4 @@ This can be used to define the various offering that the company is using at pre
 Our company has the following offerings
 - [My Product 1](./myProductOne/mainreadme.md)
 - [My Product 2](./myProductTwo/mainreadme.md)
+- [My Product 3]()
