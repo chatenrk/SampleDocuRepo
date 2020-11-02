@@ -38,6 +38,6 @@ There can be multiple systems involved. Each of the systems in detail can be add
 - [**SAP ECC 6.0 SPS 7**](../systemOverview/Backend/SAP/readme.md)
 
 ## Functional Details
-Functional details regarding the product are available in this [area](./funcDetails/product1FuncDetails/readme.md)
+Functional details regarding the product are available in this [area](../funcDetails/product1FuncDetails/readme.md)
 ## Technical Details
-Technical details regarding the product are available in this [area](./techDetails/product1TechDetails/readme.md)
+Technical details regarding the product are available in this [area](../techDetails/product1TechDetails/readme.md)
