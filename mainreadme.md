@@ -3,6 +3,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam, delectus, in
 
 ## Introduction
 This section can be used to fill details regarding the company, its founders etc
+
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam, delectus, inventore laboriosam minima sit deserunt doloribus debitis quia esse quod a aperiam eaque itaque nam! Voluptas consectetur enim aliquid incidunt.
 
 ## Sections
